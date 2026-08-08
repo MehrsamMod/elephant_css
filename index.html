@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elephant CSS</title>
+    <style>
+        @font-face {
+            font-family: code;
+            src: url(./include/Consolas-Regular.ttf);
+        }
+        p{
+            display: inline;
+            font-family: code;
+        }
+        .how_to_get_elephant_css{
+            background-color: rgba(52, 51, 51, 0.742);
+            width: 65%;
+            border-radius: 4px;
+        }
+        .copy{
+            background-color: rgba(240, 248, 255, 0);
+            border: none;
+            transition: 103ms;
+        }
+        .copy:hover{
+            transition: 103ms;
+            scale: 1.1;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Elephant CSS!</h1>
+    <h5>Copy the CDN and put it in your <p><</p><p>head</p><p>></p> element</h5>
+    <br>
+    <div class="how_to_get_elephant_css">
+        <br>
+        <code id="cdn"><p><<p>link</p></p><p> rel="stylesheet"</p><p> href="https://mehrsammod.github.io/elephant_css/elephant.css" crossorigin="anonymous"></p></code><button class="copy" onclick="copy()"><img src="./include/clipboard.svg" alt=""></button>
+        <br><br>
+    </div>
+    <script>
+        function copy() {
+            const text =
+            document.getElementById("cdn").textContent;
+            navigator.clipboard.writeText(text)
+        }
+    </script>
+</body>
+</html>

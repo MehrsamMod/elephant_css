@@ -1,0 +1,468 @@
+.btn-green{
+    background-color: green;
+    border: 3px solid rgb(94, 236, 94);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-blue{
+    background-color: blue;
+    border: 3px solid rgb(75, 75, 255);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-red{
+    background-color: red;
+    border: 3px solid rgb(244, 84, 84);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-yellow{
+    background-color: yellow;
+    border: 3px solid rgb(244, 244, 112);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-orange{
+    background-color: orange;
+    border: 3px solid rgb(239, 191, 101);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-purple{
+    background-color: purple;
+    border: 3px solid rgb(194, 66, 194);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-pink{
+    background-color: rgb(252, 144, 162);
+    border: 3px solid pink;
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-cyan{
+    background-color: cyan;
+    border: 3px solid rgb(134, 249, 249);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-brown{
+    background-color: brown;
+    border: 3px solid rgb(162, 84, 84);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-white{
+    background-color: #f2f2f2;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-black{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-magenta{
+    background-color: magenta;
+    border: 3px solid rgb(236, 97, 236);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-gold{
+    background-color: gold;
+    border: 3px solid rgb(240, 205, 139);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-green-text-black{
+    background-color: green;
+    border: 3px solid rgb(94, 236, 94);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-blue-text-black{
+    background-color: blue;
+    border: 3px solid rgb(75, 75, 255);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-red-text-black{
+    background-color: red;
+    border: 3px solid rgb(244, 84, 84);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-cyan-text-black{
+    background-color: yellow;
+    border: 3px solid rgb(244, 244, 112);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-orange-text-black{
+    background-color: orange;
+    border: 3px solid rgb(239, 191, 101);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-purple-text-black{
+    background-color: purple;
+    border: 3px solid rgb(194, 66, 194);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-pink-text-black{
+    background-color: rgb(252, 144, 162);
+    border: 3px solid pink;
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-yellow-text-black{
+    background-color: cyan;
+    border: 3px solid rgb(134, 249, 249);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-brown-text-black{
+    background-color: brown;
+    border: 3px solid rgb(162, 84, 84);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-magenta-text-black{
+    background-color: magenta;
+    border: 3px solid rgb(236, 97, 236);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-gold-text-black{
+    background-color: gold;
+    border: 3px solid rgb(240, 205, 139);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-green-border-dark{
+    background-color: green;
+    border: 3px solid rgb(33, 88, 33);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-blue-border-dark{
+    background-color: blue;
+    border: 3px solid rgb(28, 28, 100);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-red-border-dark{
+    background-color: red;
+    border: 3px solid rgb(109, 38, 38);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-yellow-border-dark{
+    background-color: yellow;
+    border: 3px solid rgb(155, 155, 71);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-orange-border-dark{
+    background-color: orange;
+    border: 3px solid rgb(129, 103, 53);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-purple-border-dark{
+    background-color: purple;
+    border: 3px solid rgb(97, 35, 97);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-pink-border-dark{
+    background-color: rgb(252, 144, 162);
+    border: 3px solid rgb(175, 130, 138);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-cyan-border-dark{
+    background-color: cyan;
+    border: 3px solid rgb(81, 149, 149);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-brown-border-dark{
+    background-color: brown;
+    border: 3px solid rgb(88, 45, 45);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-magenta-border-dark{
+    background-color: magenta;
+    border: 3px solid rgb(149, 59, 149);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-gold-border-dark{
+    background-color: gold;
+    border: 3px solid rgb(174, 149, 102);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-green-text-black-border-dark{
+    background-color: green;
+    border: 3px solid rgb(33, 88, 33);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-blue-text-black-border-dark{
+    background-color: blue;
+    border: 3px solid rgb(28, 28, 100);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-red-text-black-border-dark{
+    background-color: red;
+    border: 3px solid rgb(109, 38, 38);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-yellow-text-black-border-dark{
+    background-color: yellow;
+    border: 3px solid rgb(155, 155, 71);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-orange-text-black-border-dark{
+    background-color: orange;
+    border: 3px solid rgb(129, 103, 53);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-purple-text-black-border-dark{
+    background-color: purple;
+    border: 3px solid rgb(97, 35, 97);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-pink-text-black-border-dark{
+    background-color: rgb(252, 144, 162);
+    border: 3px solid rgb(175, 130, 138);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-cyan-text-black-border-dark{
+    background-color: cyan;
+    border: 3px solid rgb(81, 149, 149);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-brown-text-black-border-dark{
+    background-color: brown;
+    border: 3px solid rgb(88, 45, 45);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-magenta-text-black-border-dark{
+    background-color: magenta;
+    border: 3px solid rgb(149, 59, 149);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-gold-text-black-border-dark{
+    background-color: gold;
+    border: 3px solid rgb(174, 149, 102);
+    color: black;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-green:hover{
+    background-color: rgb(0, 81, 0);
+    border: 3px solid rgb(94, 236, 94);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-blue:hover{
+    background-color: rgb(2, 2, 196);
+    border: 3px solid rgb(75, 75, 255);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-red:hover{
+    background-color: rgb(196, 0, 0);
+    border: 3px solid rgb(244, 84, 84);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-yellow:hover{
+    background-color: rgb(191, 191, 2);
+    border: 3px solid rgb(244, 244, 112);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-orange:hover{
+    background-color: rgb(179, 116, 0);
+    border: 3px solid rgb(239, 191, 101);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-purple:hover{
+    background-color: rgb(104, 0, 104);
+    border: 3px solid rgb(194, 66, 194);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-pink:hover{
+    background-color: rgb(202, 115, 129);
+    border: 3px solid pink;
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-cyan:hover{
+    background-color: rgb(0, 182, 182);
+    border: 3px solid rgb(134, 249, 249);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-brown:hover{
+    background-color: rgb(101, 25, 25);
+    border: 3px solid rgb(162, 84, 84);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-white:hover{
+    background-color: #aaaaaa;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-black:hover{
+    background-color: rgb(43, 43, 43);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-magenta:hover{
+    background-color: rgb(171, 0, 171);
+    border: 3px solid rgb(236, 97, 236);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
+.btn-gold:hover{
+    background-color: rgb(192, 163, 0);
+    border: 3px solid rgb(240, 205, 139);
+    color: white;
+    border-radius: 10px;
+    scale: 1.5;
+    transition: 1s;
+}
