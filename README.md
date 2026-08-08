@@ -1,4 +1,4 @@
-# Foobar
+# Elephant CSS
 
 Elephant CSS is an CSS Framework for making websites.
 
