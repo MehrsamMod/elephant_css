@@ -1,33 +1,4 @@
-h1{
-    font-family: 'Segoe UI';
-}
-h2{
-    font-family: 'Segoe UI';
-}
-h3{
-    font-family: 'Segoe UI';
-}
-h4{
-    font-family: 'Segoe UI';
-}
-h5{
-    font-family: 'Segoe UI';
-}
-h6{
-    font-family: 'Segoe UI';
-}
-p{
-    font-family: 'Segoe UI';
-}
-strong{
-    font-family: 'Segoe UI';
-}
-mark{
-    font-family: 'Segoe UI';
-}
-del{
-    font-family: 'Segoe UI';
-}
+*{font-family: sans-serif;}
 .font-weight-100{
     font-weight: 100;
 }
