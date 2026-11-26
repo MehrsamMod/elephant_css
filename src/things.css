@@ -25,3 +25,6 @@
 .display-grid{
     display: grid;
 }
+.display-flexbox{
+    display: flexbox;
+}
