@@ -6,10 +6,9 @@
 
  For you to contribute Elephant CSS you will need
 
-  * [An Web browser like Edge or Firefox that supprots HTML5]
-  * [Visual Studio Code]
-  * [4-5 Months of HTML/CSS Skills]
-  * [Git (the latest version)]
+  * A Web browser like Edge or Firefox that supprots HTML5
+  * Visual Studio Code or any IDE
+  * Git (the latest version)
 
  ## Lets Contribute!
 
@@ -44,9 +43,3 @@
 6. Go to the Elephant CSS Repository and click on Pull Requests
 
 7. Sumbit your pull request
-
-#### And your done contributing
-
-# Note
-
-Make sure that your changes match the GPL 2.0 License
